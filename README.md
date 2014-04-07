@@ -1,4 +1,4 @@
 emailrelay-msgcopy
 ==================
 
-Filter for Emailrelay. Copy messages to a folder.
+Filter for [E-MailRelay](http://emailrelay.sourceforge.net/). Copy incoming messages to the 'storage' folder.
